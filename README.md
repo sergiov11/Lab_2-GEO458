@@ -21,10 +21,13 @@ I would really like to get more experience with the bot because although it was 
 I was honestly surprised at how much data the bot was able to gather just from iterating over the title of different YouTube videos because whenever I associate information or data to a video I think more about the information that the video contains within itself and not the one present in the title. I would really like to test this bot in the future on another website such as Facebook or Instagram to find just how much the contents from the two apps differentiate.
 
 ![Word Cloud 1](Images/wordcloud1.png)
+[Word Cloud 1 Data](https://raw.githubusercontent.com/sergiov11/Lab_2-GEO458/main/Assets/Video_Data1.csv)
 
 ![Word Cloud 2](Images/wordcloud2.png)
+[Word Cloud Data 2 Data](https://raw.githubusercontent.com/sergiov11/Lab_2-GEO458/main/Assets/Video_Data2.csv)
 
 ![Word Cloud 3](Images/wordcloud3.png)
+[Word Cloud 3 Data](https://raw.githubusercontent.com/sergiov11/Lab_2-GEO458/main/Assets/Video_Data3.csv)
 
 
 
